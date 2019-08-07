@@ -2,6 +2,9 @@ package tutorials
 
 import java.time.LocalDate
 
+/**
+ * https://kotlinlang.org/docs/tutorials/kotlin-for-py/strings.html
+ */
 fun main() {
     val c = 'A' // Char
     println(c::class)
