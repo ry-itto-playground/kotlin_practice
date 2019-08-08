@@ -1,5 +1,8 @@
 package tutorials
 
+/**
+ * https://kotlinlang.org/docs/tutorials/kotlin-for-py/loops.html
+ */
 fun main() {
     // for loop
     val strings = listOf("aaa", "bbb", "ccc")
