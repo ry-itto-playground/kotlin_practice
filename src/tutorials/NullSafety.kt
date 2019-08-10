@@ -1,5 +1,8 @@
 package tutorials
 
+/**
+ * https://kotlinlang.org/docs/tutorials/kotlin-for-py/null-safety.html
+ */
 fun main() {
     val x: String? = null
     // Elvis演算子(Swiftの ?? )

@@ -1,5 +1,9 @@
 package tutorials
 
+/**
+ * https://kotlinlang.org/docs/tutorials/kotlin-for-py/classes.html
+ */
+
 class Person(firstName: String, lastName: String, yearOfBirth: Int) {
     val fullName = "$firstName $lastName"
     var age: Int = 32

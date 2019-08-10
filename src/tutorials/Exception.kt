@@ -2,6 +2,11 @@ package tutorials
 
 import java.lang.ArithmeticException
 
+/**
+ * https://kotlinlang.org/docs/tutorials/kotlin-for-py/exceptions.html
+ */
+
+
 fun throwFunc() {
     throw Exception() // Nothing 型を返す
 }
